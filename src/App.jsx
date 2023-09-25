@@ -7,3 +7,8 @@ export const App = () => {
     </div>
   );
 };
+
+//IDAHs
+//Import:
+//import React, { useState } from "react";
+//import ReactDom from "react-dom";
